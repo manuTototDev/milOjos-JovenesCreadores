@@ -1,0 +1,26 @@
+﻿Total rostros en DB: 11375
+
+Keys de una entrada: ['name', 'year', 'embedding', 'original_path']
+
+--- Primeras 15 entradas ---
+'AARON ADALID ESCOBEDO CONDE.jpg' | 2020 | 020\\fotos_recortadas\\foto_AARON ADALID ESCOBEDO CONDE.jpg'
+'AARON ERNESTO SANCHEZ GONZALEZ.jpg' | 2020 | \\fotos_recortadas\\foto_AARON ERNESTO SANCHEZ GONZALEZ.jpg'
+'AARON SEBASTIAN ALBORED DI BELLA.jpg' | 2020 | fotos_recortadas\\foto_AARON SEBASTIAN ALBORED DI BELLA.jpg'
+'ABRAHAM BAUTISTA ALVAREZ.jpg' | 2020 | \\2020\\fotos_recortadas\\foto_ABRAHAM BAUTISTA ALVAREZ.jpg'
+'ABRAHAM BERNAL MANDUJANO.jpg' | 2020 | \\2020\\fotos_recortadas\\foto_ABRAHAM BERNAL MANDUJANO.jpg'
+'ABRAHAM GARATACHIA CONTRERAS.jpg' | 2020 | 20\\fotos_recortadas\\foto_ABRAHAM GARATACHIA CONTRERAS.jpg'
+'ADELITA VALENCIA ANTONIO.jpg' | 2020 | \\2020\\fotos_recortadas\\foto_ADELITA VALENCIA ANTONIO.jpg'
+'AGUSTIN CORNELIO VEGA GUADARRAMA.jpg' | 2020 | fotos_recortadas\\foto_AGUSTIN CORNELIO VEGA GUADARRAMA.jpg'
+'AGUSTIN GERARDO MARTINEZ RAMIREZ.jpg' | 2020 | fotos_recortadas\\foto_AGUSTIN GERARDO MARTINEZ RAMIREZ.jpg'
+'AGUSTIN OCAMPO PASARAN.jpg' | 2020 | es\\2020\\fotos_recortadas\\foto_AGUSTIN OCAMPO PASARAN.jpg'
+'AISHA YAMILETH JUAREZ MARTINEZ.jpg' | 2020 | \\fotos_recortadas\\foto_AISHA YAMILETH JUAREZ MARTINEZ.jpg'
+'ALAN MENDIETA GUZMAN.jpg' | 2020 | sDes\\2020\\fotos_recortadas\\foto_ALAN MENDIETA GUZMAN.jpg'
+'ALBERTO GALLARDO NOPHAL.jpg' | 2020 | s\\2020\\fotos_recortadas\\foto_ALBERTO GALLARDO NOPHAL.jpg'
+'ALBERTO ZEPEDA SANCHEZ.jpg' | 2020 | es\\2020\\fotos_recortadas\\foto_ALBERTO ZEPEDA SANCHEZ.jpg'
+'ALDO VARGAS VIGUERAS.jpg' | 2020 | sDes\\2020\\fotos_recortadas\\foto_ALDO VARGAS VIGUERAS.jpg'
+
+Todos los campos existentes en la DB: {'year', 'original_path', 'name', 'embedding'}
+
+Path completo ejemplo:
+c:\Users\manu\Documents\Jovenes creadores\Dev\produccion\python\..\fcaesDes\2020\fotos_recortadas\foto_AARON ADALID ESCOBEDO CONDE.jpg
+c:\Users\manu\Documents\Jovenes creadores\Dev\produccion\python\..\fcaesDes\2020\fotos_recortadas\foto_CESAR VAZQUEZ VAZQUEZ.jpg

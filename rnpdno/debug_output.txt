@@ -1,0 +1,94 @@
+﻿=== BOTONES VISIBLES ===
+  A "" cls=
+  A "Trßmites" cls=nav-hipervinculo
+  A "Gobierno" cls=nav-hipervinculo
+  A "" cls=nav-hipervinculo
+  A "" cls=
+  A "┐QU╔ ES LA CNB?" cls=nav-hipervinculos
+  A "" cls=
+  A "" cls=
+  A "" cls=
+  A "" cls=
+  A "" cls=
+  A "B┌SQUEDA" cls=nav-hipervinculos
+  A "" cls=
+  A "" cls=
+  A "" cls=
+  A "" cls=
+  A "" cls=
+  A "" cls=
+  A "COMISIONES" cls=nav-hipervinculos
+  A "TRANSPARENCIA" cls=nav-hipervinculos
+  A "" cls=
+  A "" cls=
+  A "" cls=
+  A "" cls=
+  A "" cls=
+  A "NORMATIVIDAD" cls=nav-hipervinculos
+  A "" cls=
+  A "CONTACTO" cls=nav-hipervinculos
+  BUTTON "Buscar" cls=btn-busqueda-consulta
+  BUTTON "Limpiar" cls=btn-busqueda-limpia
+
+Primer bot¾n de card: 1 encontrados
+
+=== TEXTO COMPLETO POST-CLICK (800 chars) ===
+Trßmites
+Ir al sitio de Trßmites del Gobierno de MÚxico
+Gobierno
+Ir al sitio de Gobierno de MÚxico
+┐QU╔ ES LA CNB? 
+B┌SQUEDA 
+COMISIONES
+TRANSPARENCIA 
+NORMATIVIDAD 
+CONTACTO
+
+
+
+Ingresa FOLIO ┌NICO DE B┌SQUEDA O NOMBRE COMPLETO en el buscador de texto para identificar tu reporte
+
+Elige los filtros que desees consultar y da click en el boton de Buscar
+
+Rango de fechas de hechos
+Fecha inicial - Fecha final
+Estado
+
+Selecciona un estado
+Aguascalientes
+Baja California
+Baja California Sur
+Campeche
+Coahuila
+Colima
+Chiapas
+Chihuahua
+Ciudad de MÞxico
+Durango
+Guanajuato
+Guerrero
+Hidalgo
+Jalisco
+Estado de MÚxico
+Michoacßn
+Morelos
+Nayarit
+Nuevo Le¾n
+Oaxaca
+Puebla
+QuerÚtaro
+Quintana Roo
+San Luis PotosÝ
+Sinaloa
+Sonora
+Tabasco
+Tamaulipas
+Tlaxcala
+Veracruz
+Yucatßn
+Zacatecas
+Se Desconoce
+Municipio o Alcald
+
+=== CLASES DE MODAL ===
+['modal-open', 'modal', 'modal-dialog', 'modal-lg', 'modal-content', 'modal-header', 'modal-title', 'icono-modal-cerrar', 'modal-body', 'modal-backdrop']

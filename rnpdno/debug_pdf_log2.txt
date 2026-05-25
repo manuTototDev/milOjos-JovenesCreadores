@@ -1,0 +1,184 @@
+﻿Cargando...
+
+=== MODAL HTML (primeros 3000 chars) ===
+NO MODAL
+
+=== BOTONES VISIBLES ===
+  [A] '' cls= id= href=https://www.gob.mx/
+  [A] 'Tr├ímites' cls=nav-hipervinculo id= href=https://www.gob.mx/tramites
+  [A] 'Gobierno' cls=nav-hipervinculo id= href=https://www.gob.mx/gobierno
+  [A] '' cls=nav-hipervinculo id= href=https://www.gob.mx/gobierno
+  [A] '' cls= id= href=/
+  [A] '┬┐QU├ë ES LA CNB?' cls=nav-hipervinculos id= href=https://comisionacionaldebusqueda.segob.gob.mx/cnb/
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/funciones/
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/instituciones
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/sistema/
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/equipo/
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/capacitacion/
+  [A] 'B├ÜSQUEDA' cls=nav-hipervinculos id= href=https://comisionacionaldebusqueda.segob.gob.mx/busqueda/
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/tipos-de-busq
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/acciones/
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/protocolos/
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/derechos/
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/identificacio
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/colaboracion-
+  [A] 'COMISIONES' cls=nav-hipervinculos id= href=https://comisionacionaldebusqueda.segob.gob.mx/comisiones/
+  [A] 'TRANSPARENCIA' cls=nav-hipervinculos id= href=https://comisionacionaldebusqueda.segob.gob.mx/transparencia
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/gobierno-abie
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/transparencia
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/ut/
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/proteccion-da
+  [A] '' cls= id= href=https://comisionacionaldebusqueda.segob.gob.mx/avisosprivaci
+  [A] 'NORMATIVIDAD' cls=nav-hipervinculos id= href=https://comisionacionaldebusqueda.segob.gob.mx/normatividad/
+  [A] '' cls= id= href=https://suiti.segob.gob.mx/edictos
+  [A] 'CONTACTO' cls=nav-hipervinculos id= href=https://cnbreporteinicial.segob.gob.mx/buzon
+  [BUTTON] 'Buscar' cls=btn-busqueda-consulta id= href=
+  [BUTTON] 'Limpiar' cls=btn-busqueda-limpia id= href=
+  [BUTTON] 'Ver Lista' cls=btn-accion-consulta btn-primary id= href=
+  [BUTTON] 'Ver Cuadricula' cls=btn-accion-consulta select-btn id= href=
+  [A] '' cls= id= href=
+  [A] '' cls= id= href=
+  [A] '' cls= id= href=
+  [A] '' cls= id= href=
+  [A] '' cls= id= href=
+  [A] '' cls= id= href=
+  [A] '' cls= id= href=
+  [A] '' cls= id= href=
+  [A] '' cls= id= href=
+  [A] '' cls= id= href=
+  [BUTTON] '' cls=p-paginator-first p-paginator-element p- id= href=
+  [BUTTON] '' cls=p-paginator-prev p-paginator-element p-l id= href=
+  [BUTTON] '1' cls=p-paginator-page p-paginator-element p-l id= href=
+  [BUTTON] '2' cls=p-paginator-page p-paginator-element p-l id= href=
+  [BUTTON] '3' cls=p-paginator-page p-paginator-element p-l id= href=
+  [BUTTON] '4' cls=p-paginator-page p-paginator-element p-l id= href=
+  [BUTTON] '5' cls=p-paginator-page p-paginator-element p-l id= href=
+  [BUTTON] '' cls=p-paginator-next p-paginator-element p-l id= href=
+  [BUTTON] '' cls=p-paginator-last p-paginator-element p-l id= href=
+  [A] 'https://cnbreportadesaparecidos.segob.gob.mx/' cls= id= href=https://cnbreportadesaparecidos.segob.gob.mx/
+  [A] 'Participa' cls=hipervinculo-gobmx id= href=https://participa.gob.mx/
+  [A] 'Publicaciones Oficiales' cls=hipervinculo-gobmx id= href=www.gob.mx/publicaciones
+  [A] 'Marco Jur├¡dico' cls=hipervinculo-gobmx id= href=https://www.ordenjuridico.gob.mx/
+  [A] 'Plataforma Nacional de Transparencia' cls=hipervinculo-gobmx id= href=https://consultapublicamx.plataformadetransparencia.org.mx/v
+  [A] 'Alerta' cls=hipervinculo-gobmx id= href=https://alertadores.buengobierno.gob.mx/
+  [A] 'Denuncia' cls=hipervinculo-gobmx id= href=https://sidec.buengobierno.gob.mx/
+  [A] 'Transparencia para el Pueblo' cls=hipervinculo-gobmx id= href=https://transparencia.gob.mx/home.html
+  [A] 'Leer m├ís' cls=hipervinculo-gobmx id= href=https://www.gob.mx/que-es-gobmx
+  [A] 'Portal de datos abiertos' cls=hipervinculo-gobmx id= href=https://www.datos.gob.mx/
+  [A] 'Declaraci├│n de accesibilidad' cls=hipervinculo-gobmx id= href=https://www.gob.mx/accesibilidad
+  [A] 'Aviso de Privacidad Integral' cls=hipervinculo-gobmx id= href=https://www.gob.mx/aviso_de_privacidad
+  [A] 'Aviso de privacidad simplificado' cls=hipervinculo-gobmx id= href=https://www.gob.mx/privacidadsimplificado
+  [A] 'T├®rminos y Condiciones' cls=hipervinculo-gobmx id= href=https://www.gob.mx/terminos
+  [A] 'Pol├¡tica de Seguridad' cls=hipervinculo-gobmx id= href=https://www.gob.mx/terminos#medidas-seguridad-informacion
+  [A] 'Mapa de sitio' cls=hipervinculo-gobmx id= href=https://www.gob.mx/sitemap
+  [A] 'Denuncia contra servidores p├║blicos' cls=hipervinculo-gobmx titulo-lista id= href=https://www.gob.mx/tramites/ficha/presentacion-de-quejas-y-d
+  [A] '' cls= id= href=https://www.facebook.com/gobmx
+  [A] '' cls= id= href=https://x.com/GobiernoMX
+  [A] '' cls= id= href=https://www.instagram.com/gobmexico/
+  [A] '' cls= id= href=https://www.youtube.com/@gobiernodemexico
+
+=== RADIOS/LABELS ===
+  [LABEL] 'Rango de fechas de hechos' val= checked=False
+  [LABEL] 'Estado' val= checked=False
+  [LABEL] 'Municipio o Alcald├¡a' val= checked=False
+
+=== BOT├ôN PDF: {'found': True, 'text': 'M├üS INFORMACI├ôN', 'x': 169.078125, 'y': 676.171875, 'cls': 'text-pdf'} ===
+  ÔåÆ Haciendo click en bot├│n PDF...
+
+=== API CALLS CAPTURADAS ===
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/t/VTJGc2RHVmtYMStjNEFjSGUrbngw
+       action= | ds_keys=[] | data=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkNvbnN
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMSsvVE11UVpRWWtm
+       action= | ds_keys=[] | data=132494
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9nUkNrVTQxcjRu
+       action= | ds_keys=[] | data={'data': [{'iddependenciaorigen': 'CONFIDENCIAL', 'dependenc
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTlCUXZrUzZHcENt
+       action=EC3B1583-2634-4659-9B0E-71C91B1E8CFD | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=data:image/png;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBg
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTlJS2hRQkVWU2NL
+       action=0546F598-3B27-4F54-A040-D02A5589BD5E | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=data:image/png;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9wU2RreHR0akE5
+       action=41B25212-9E04-4680-8509-3A723CFA5F2F | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcYAAAKMCAYAAA
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStYSG5lanh1czk4
+       action=5855429F-5C23-4834-91C4-9450BA3509DD | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=None
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9MN1FjMFlSb1pD
+       action=5209356D-EFDC-4ED2-9190-9189930C48DC | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=None
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTgzdHN4OTd6bXh2
+       action=047A3EF9-34DF-40CC-89D1-19B0CFDC7871 | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=None
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStOREkwZ0JyTytH
+       action= | ds_keys=[] | data={'data': [{'iddependenciaorigen': 'CONFIDENCIAL', 'dependenc
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTlBQzdJOC8zZmxq
+       action= | ds_keys=[] | data=132494
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9pak5QRE1nSXJU
+       action=EC3B1583-2634-4659-9B0E-71C91B1E8CFD | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=data:image/png;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBg
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMSsweGdCTmVFZEt3
+       action=EC3B1583-2634-4659-9B0E-71C91B1E8CFD | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=data:image/png;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBg
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMSt1V1ZUanprSDZp
+       action=0546F598-3B27-4F54-A040-D02A5589BD5E | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=data:image/png;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMThTVEhaYWFxTHRh
+       action=0546F598-3B27-4F54-A040-D02A5589BD5E | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=data:image/png;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS90Szc5Q1RYSTBF
+       action=41B25212-9E04-4680-8509-3A723CFA5F2F | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcYAAAKMCAYAAA
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStNQ2ZLUHllZlg0
+       action=41B25212-9E04-4680-8509-3A723CFA5F2F | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcYAAAKMCAYAAA
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTh3YnU0bGJETzlj
+       action=5855429F-5C23-4834-91C4-9450BA3509DD | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=None
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTlaWWlWOXZWMnY2
+       action=5855429F-5C23-4834-91C4-9450BA3509DD | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=None
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9DcGZWRnBkSlQr
+       action=5209356D-EFDC-4ED2-9190-9189930C48DC | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=None
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9SaXpNd2F6WEli
+       action=5209356D-EFDC-4ED2-9190-9189930C48DC | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=None
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStLRjdrbFpOOVky
+       action=047A3EF9-34DF-40CC-89D1-19B0CFDC7871 | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=None
+  URL: https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTlFSjF5R2lIeUVP
+       action=047A3EF9-34DF-40CC-89D1-19B0CFDC7871 | ds_keys=['idvictimadirecta', 'idreporte', 'iddependenciaorigen', 'sexo'] | data=None
+
+=== PETICIONES PDF/DESCARGA CAPTURADAS ===
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/t/VTJGc2RHVmtYMStjNEFjSGUrbngwekJlWkgvZjRHdUQ4Y2FZcWNxeHRRaFl2MEd1MDhPeitnR3dGc2J5OFd4ekRRRFk5V2dRY1BOY3pPZ09wdlBQUlA3WEZrQzg3bk95WllzZXV3bTVmdVk9
+  [GET] https://consultapublicarnpdno.segob.gob.mx/assets/boton_reporte-4ERWJaYX.png
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9nUkNrVTQxcjRuc0ZSeHlwZXJyb3I2Yi83K3ljdDZLL203SUVoRkdFaHZGV2VkYUFqTDNUdGthd05kN1pFVlcvbWxNRklYTUFkNzRETVFad3J5VEwxWXlaS3gyNnpwOTJSK3FacllPaHZKTmRybmNoVzhLMXRMOHY3OEZPc2JqK2pmdXBJWHhQSC9oRi93OUhUa3hoVkQyS1pLVXIzejNVPQ==
+       POST: {"rows":10,"page":1}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMSsvVE11UVpRWWtmQi9Gbk1uUmxaSlZOMmI0M2NMMkg5dU9MUkpNN1hwSG55UVQwd3k4Rk13SGdwQTdlWm1PVWVvaFk5Z3hQRThwYU90aERYb2FwVEJKdkRxdmlrcGlXRVlpOFp3QzhobThSN0VqcnZBUVBmaThrM253VDJLWHVXK0NrM2NsdjUxK2NyQ00yaEJTQkdUYXFFZjBwVmxGQWhvPQ==
+       POST: {"rows":10,"page":1}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTlCUXZrUzZHcENtTHNkL29sek9VNS9TN2tqSHZ5cnZLVU1MeVJVZ3F1M2xQM0t5aDhUVDN5ZkFLRjBCOFVUMjh2RG1YWlRRZmZ0UlVTeExNWis0bi9RcjlWcVVwcHdwcW5wc1FqMWhFeFlWdHF0Um9VOGVMZ2FJK2ExSkM4RElYR0FJcmtGOTFoL3RHMWN4ODNtMDJlLy83TURVYUtWMGwxa3FoaXoxc00wU3N6K3cwNTRFK3dWV1RyU2lCc2cyb2pKbWp1RVBpbUJoMUFLNjBYdmFoc0NsMisyVGJJUjNVRU4vRVJlTDRaa1N6TkdQd1BBelpRVQ==
+       POST: {"dataSend":{"idvictimadirecta":"EC3B1583-2634-4659-9B0E-71C91B1E8CFD","idreporte":1,"iddependenciaorigen":67,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTlJS2hRQkVWU2NLR3M3eSttamJKWXhWYkhGdWJJZUh0V0RlYzZjS2F2QXVub3JMOUY4ZE9XaEh0Zm5aMldmNk9YTUNPZTk5ckZDemQ4S1VSZ29nUmQ1cEdwbWVvMDhnSWtwQjhtN21vWWZtY0pWUERLOHllczhNbXl0NUFKa3BZQm9kSEdEU0IwV1pqcks4ODJMUDJnWE1rK2I0WkE1RGI0QTZRYm9kSEo1aTdOQnVqQnJvRkdvZnBZTXFzQUo4cTg4U1liUlNmQUd3L0x3M09yb2ZobUZrWTNaSHRGTklXV3NKTFV1WS9JRXl4WHZRdmttWnBnRw==
+       POST: {"dataSend":{"idvictimadirecta":"0546F598-3B27-4F54-A040-D02A5589BD5E","idreporte":1,"iddependenciaorigen":9,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9wU2RreHR0akE5dzI1TEdpTXdiTXROVmxWUDhoMktmMzhXdTJ3OXNqQlZLV2hDWUpaam9mVTFKZ2g4YldQR1F1bENVYVZzazZGaXBtdVYyUjloMERYWEU0SUF4OFZXbHprejVxNlBWRGl1ZE5id2R6OWZ5MGc5NlR4RVN1ck1BUHBTMHJUWnd0OG50RnJPTUNXZm53bnZLVUNJL0hQZHY0RkFZOHZPeGZnYUMzNXJueWdyZ2g0VWNNQ2YzSk1UaHErVjVNSkpuMTRFNEVoWlVqZFB6WEl1SzJPVWo1Tzd0YktjQm5lWlQrS2pZQThKRmhpQXJxLw==
+       POST: {"dataSend":{"idvictimadirecta":"41B25212-9E04-4680-8509-3A723CFA5F2F","idreporte":1,"iddependenciaorigen":13,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStYSG5lanh1czk4ZFlscEdnblJOekNIeHl2Q2xmLy84aitSU2c4Um92RjlUTVN6b05CTTFSZjYyc2Q5bEFrUUp1L1NCekZtYzhwZ3lPVXRpUjdaUWYrSFB3UEgyYkNkcE5TdlY5U3pPdFRJWWVHaHg5N0FuZHdJRzVvTU9iS1krQldwSXBOV0dqQWJ3ekIrVTR3T0o4eHZMY0FwWXptMEJueW10YTRDTjhRdXhIdHlUakpPaEJjY20zMG5WUGNwUlpWazBYNElsYkk1bzZVNE9PanJSTm1LUng1VVhmZlZPR25INUJNYmlBRzZrcEFLZTdNRytkUA==
+       POST: {"dataSend":{"idvictimadirecta":"5855429F-5C23-4834-91C4-9450BA3509DD","idreporte":1,"iddependenciaorigen":48,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStYSG5lanh1czk4ZFlscEdnblJOekNIeHl2Q2xmLy84aitSU2c4Um92RjlUTVN6b05CTTFSZjYyc2Q5bEFrUUp1L1NCekZtYzhwZ3lPVXRpUjdaUWYrSFB3UEgyYkNkcE5TdlY5U3pPdFRJWWVHaHg5N0FuZHdJRzVvTU9iS1krQldwSXBOV0dqQWJ3ekIrVTR3T0o4eHZMY0FwWXptMEJueW10YTRDTjhRdXhIdHlUakpPaEJjY20zMG5WUGNwUlpWazBYNElsYkk1bzZVNE9PanJSTm1LUng1VVhmZlZPR25INUJNYmlBRzZrcEFLZTdNRytkUA==
+       POST: {"dataSend":{"idvictimadirecta":"5855429F-5C23-4834-91C4-9450BA3509DD","idreporte":1,"iddependenciaorigen":48,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9MN1FjMFlSb1pDSVFGOE95NWlVbFdpNktFMWszRWNOQjY4NXdJVnl5T3JjQ0tOMlUvWm1VSGViLyt1TVpKQ3ZOTHZnZlNRMTR4Um96UUo4RE82bXZqc0dYSm9BMUNZQWh2NkZhcnFSQm5sM00zaGJxK1RaUm5wS2hJYlluTXR2ZkYrSkdncFI1OEY5Q0syVEVzS3BqV1RzZ1NVbCt5eXZyWTJmWlZtcEZJd3NyTjUzUGhhMlRjcHcvbGw4Y3hQLzNINDNLbVBhK0FtT1VYZ0FyeFRwT3ZEdEZnaG5sTTBmNzZ3Z2VqVlgycFB6eEhrMWR2dDdtMA==
+       POST: {"dataSend":{"idvictimadirecta":"5209356D-EFDC-4ED2-9190-9189930C48DC","idreporte":1,"iddependenciaorigen":18,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTgzdHN4OTd6bXh2UjV4UE1VbkUwdFFJSVExYWhiVlp4bU9LNnZWWTJVbWRVK0U3SkNxL3UxbEg5NXJCMW5Oc1lhenZpOVJsR1JIVkZnQzBORHR4QWtMVDc1RFExR1BRdHFBOTYyREVKQWJwUWsrK0JXNWZ6ZnNCeWo5RW91TjkzTWYzL05MUXErZ1lIV1ZmWUhMUGU4WlBCSVptRHduWEt5S0pTWUdtbXJvNFU3TDRseFloSjRSeDFCNEVSQjZjdHFub0dyNmZGQ0lwVDlMb2NGUG9VUmw4dTdWUTZQVzFpSm9HUjkrSEFlRHVJUlRMcXpvTVBGOQ==
+       POST: {"dataSend":{"idvictimadirecta":"047A3EF9-34DF-40CC-89D1-19B0CFDC7871","idreporte":1,"iddependenciaorigen":18,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStOREkwZ0JyTytHdi93eTQ1bTd3OXlxSFA4VmVaQ0xEdWFSeDI4YkxmL3Y3RXpyZDVHM01ZYUt1eE9WZU9URnpmdFV0WGEvVmxjZlRTazdiSGV0SWlSbGtiUVc1ZnVNYWNKRUFnOFR4MHZMdjdacVZVclVIU3VockVkRDY1ZExwc2JabmdmR1JWRGt3ZXVjNzBnSmpaL3orcVlUR2NKWTN3PQ==
+       POST: {"rows":10,"page":1}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTlBQzdJOC8zZmxqdnNuOHFTTUlHUWl3L2p3WE9pSGFXVWxxcnM5WjJTL3VWMlJoenBGMmN5Qk9tZ2tyZXB3OFJoMmFPOE1aLzN1d0tRNXFXQmEyS2FNbjNvc0NYdG9nVzhyS1A1Y2RNZDBOTGRGMTAyVmxPY1FQZkFvckpFdk9uK3Y5UDZadCt3TWNNdkxzUjVRRUdJbm5kL2dPMFduZDRZPQ==
+       POST: {"rows":10,"page":1}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMSsweGdCTmVFZEt3bExPY0xRQzhOdk9uTHI5UTl5b2hEZmJVc3RaNEFoa0pUMC9zM1Bma3hTaVNIK0RsUFEveUpCQVYxaG1DbnUycEYwY041dmV1MjRld1NPUHRxRW5SdkNoSzZOWndrV1p5MkUwc2g4STRzVHY1QWVLZmk0cWQzOXl3eHVscmpzeDBLTVVaMHN1QjBVTlBlckpHNXhPazBBWmpFOFJaRXJNSDgwdkpGTmZ2aG9LZDVuUU12elc1eHJvaDJwRU9uZXJjR2NZVGRMblZscnlwNXBsKzJ6QlUzdmxReU1JNXg3T2MyaE8ySVd6eHkyaQ==
+       POST: {"dataSend":{"idvictimadirecta":"EC3B1583-2634-4659-9B0E-71C91B1E8CFD","idreporte":1,"iddependenciaorigen":67,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9pak5QRE1nSXJUZDNoYUw5TlQ3YnhDd1JLY3hCZmQxY3RVTGs0bmFmSSt5c3VWd0Q3OUZQZzFxdHZWOGlvTnAvZm5HaHlWb1dJc3kwTlZqS21idCtPREVRZkRaRzVrQTVvL1JHcTUzMjlBbDF0d1ozQ2pON0ZGR3UzeXU2dTBWWkxGc2Vzb1JSaGM3eHFlZkZnZkxjNCtwZXFOc1NIWGs0S2hnQzY3TUZQUjRSU0ttNTg2UlFqaU9raTBncmYvaC9uR3B4aVRkT0Z3VWljSWZTbkJjaWlpcVVLbWlSZzRmWnFGUnk0b1A1RUxTUE9CK2VzYnREaQ==
+       POST: {"dataSend":{"idvictimadirecta":"EC3B1583-2634-4659-9B0E-71C91B1E8CFD","idreporte":1,"iddependenciaorigen":67,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMThTVEhaYWFxTHRhRzcvWHptN3I4QlE2VGxvTkJVd3EwZUpxenhOVmZ3OENJWSt3VVdwa2tkQjlxakZVOU1OMmJMcE40Z2J3VFByUWJweWNOVXFEb0JaMnp4OFVCRjVxUDJJVElrWTIwSmV3U1hhMGgwL1hPemV3aXk2YUQxd21TT3F6NEp3ZFB4eEIyaTQ4d3J3Sjl0ZWZRekIzWE9TVVdMdmZLV1ZZRkRwY0t3UUxKamxGZ3RPenZRTHVEaWwveU1KL2g2SnZTUTZmSzcxMTJ0UWRMM1BtN0ZCZlluNXlJcHR1akZPUG9EUUcrMnN1MjM5Q1R0SA==
+       POST: {"dataSend":{"idvictimadirecta":"0546F598-3B27-4F54-A040-D02A5589BD5E","idreporte":1,"iddependenciaorigen":9,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMSt1V1ZUanprSDZpbzQ5S0ZMbjJtakNVUHRFUXV0dys2WlZET2dmWEI1c3IzNXpBSG8vQm1CT1lpQUFoSkpYVWR1UkdDYWhRZEdLWjhRTHZLWTVuNjk0OVorQ29URjRoV3BWa1NJMzgyU1p0ZEd2N1Vjekg3ek5rOUFJbzZxRy9MWUt4TTI4QVBPUzI2RHFTWGU0TC9xYUhKRkMzRithNTNaNmlGZkYvNlBwSitxN3NqcnlmVTREMUtnNUNLdVBtZi80NVhYSHNtZEU3cVFnc09jNHlURWpxQ0pQZlN6SlZQZUFkZjFPdzNIK1MwVDhTeTdaN3NHVA==
+       POST: {"dataSend":{"idvictimadirecta":"0546F598-3B27-4F54-A040-D02A5589BD5E","idreporte":1,"iddependenciaorigen":9,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStNQ2ZLUHllZlg0RjRyMXlKRTBvMEhPMTVCUnQ3N3FBZ2pBTnd6cmxkSW56NWoyWHZrUDQzVHJIcjBSZFBHQ3lldjBUMnVXOWZzNnFLOEFGRUR2TWZtbWtYUmt6eVRDRlMzeGE3YVlUOWllQzBTZUxoQWR4R25vUFRISmFYa0dEZVExamhudDE2WW5RbWh0STB3MlNJcEZNN2Rjbm9nRnhHdXhSbU1udWROL1drbGlLaVZCdkFoV2FZbXdyRXp5a3pNa0dmQ3NtM2pQRTJNcldBc2E5UEhoN3hldGUwRlhkVzZkcy83TS9rSnhPWGhsZEowUGNxSA==
+       POST: {"dataSend":{"idvictimadirecta":"41B25212-9E04-4680-8509-3A723CFA5F2F","idreporte":1,"iddependenciaorigen":13,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS90Szc5Q1RYSTBFS2RZc2NVcTZtN1FWck5iZDNvbjUvV2VobmVnWjdyajVzalpDQUVrNGs5WFVjVDllck14RysrM3dFS1dXRFZSZ2xMSXNUWHRtYkxZajYwZitocy9TbWExT1lqRzZENkdIbFh2eUtqVHBLVEd2bHgwTUd2VGdoVk9Wbml5N1UrMjhpZHhESjYxeG9pajl5T3Jmcm42RzNFQWNPcURPTmRQU0s5YXVDWkE1NC8yU2xGWmNxN1hCVTJjcmF6V1hmQWJPMjArUHpqTXJmdTM1dmJnWkl1THhEK2lRM1c3VG54aGJlbTdXN2dLN3QvNg==
+       POST: {"dataSend":{"idvictimadirecta":"41B25212-9E04-4680-8509-3A723CFA5F2F","idreporte":1,"iddependenciaorigen":13,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTh3YnU0bGJETzljNVVpckJEMTFWVDVYWGdTVWRMV1NXSE00cElHVnc3ZDh2ZGRhZ2NhZmgvTW1sRkJoWXFhQ2tBSkVsNUZqUCtUbGQ5ZzltZTlIdy9ZY3FSTzF6Rmt5UVV2SWhhUmNoeHFBTXJVc09kMGl2YzNyWHV0d3h3RStNRm9VKzJxU0EzYmUwTUlNNVRmYktWVVo3Mm1sQUZ5Zkd2TjBIbmRRYThzMXdqaEUxb0dVdE9nUWJVMGFGSkg5NmVYVUhjbUcrZ0lFVy9jYS9wNUJCTVk4MHExTGVhRmdrb1dkQk9kYmRRTnRNcWVra3RsUXF6cg==
+       POST: {"dataSend":{"idvictimadirecta":"5855429F-5C23-4834-91C4-9450BA3509DD","idreporte":1,"iddependenciaorigen":48,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTlaWWlWOXZWMnY2MTIvRWRHMHlOTWU2T0N2alFxSW01K0NPaEw1KzlNeXFTbW01TXQzNDdtbnZzS3ZxdVR5VUFyU28wQmtVR3dSeHUyNWI5Q1p6TUtvQzJpZnNNYVh0QUszZXhmTjR5aFJTSEF5WlFGMUhMVmRxS2FsWWlaa2pqS0x5azFDcTRGRHBGRmpjOGQybS8wbDc0RGRhM1JSdWNZYXlYQjE4cEo4RHVZVlhrT21jdmlSOFlORnQxWStUMHliUVRTOUJxUTVudGxaSzRnTzlHbU9EYmdHK3BEWno4NDFxTTFlNE5CcG1ET20wbks4aTJxUg==
+       POST: {"dataSend":{"idvictimadirecta":"5855429F-5C23-4834-91C4-9450BA3509DD","idreporte":1,"iddependenciaorigen":48,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9DcGZWRnBkSlQrY1YwdUQ1ZCs1bmJCWlNQdE8xbkhGeGMvc242ckFXOWdVWWN4N3AyU014bFVSWXlWSzU1WDJ5K05mMkRUMlVNT0Q3SmM2M3lvbk5Nd1I2VXpjVEVpTzhiYUdDa3cwTW93QzRLeklGK1dDbHJtY3VxTUJoY3Z4aWtjd2k1ZUFlTGYzamJIOWJTdUJVVzNSV1JlRk5mazROK2JWeUE2SVhwZGp0alRTNGhnb05HUkxWMzVWMzdOZkFub2ljYmovL3Q0S2hoejJJSjk4dW5pWEZlUlZXS3Q0c2lraGRZU3RvbmNvWC8wWlpGUWk4NA==
+       POST: {"dataSend":{"idvictimadirecta":"5209356D-EFDC-4ED2-9190-9189930C48DC","idreporte":1,"iddependenciaorigen":18,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9SaXpNd2F6WElicmdabmFGa2wxUUxUczNmSVhNc0tuRWJNWDNhaDNmeWhXbWdsRWFYL0xjZlUzMEd2S3BOa3lkYjBYZVdqd3hjVUpYeUZHTFluRy9hUWhpUjFtSHFPaUVERG1jTmU1M2I2b0dCcWpKQjROVDMwaHFidUZlcnNzbytEaUIwenpqZWtuVzM4QW1XeEVFVXJZM1Q4SG52TmVVeFVyUVF5QVp5azAvWnJ5M0xZanFSRW9UTVBxUWdDbWVEUnhHdWlrcEo3SnE0bS94Y1IxV1oxd0JKS1NkQ2dRYXM2V2hvNWZHQXhSSFM1b2VoUndFTA==
+       POST: {"dataSend":{"idvictimadirecta":"5209356D-EFDC-4ED2-9190-9189930C48DC","idreporte":1,"iddependenciaorigen":18,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTlFSjF5R2lIeUVPNUUzNDNML1JqSEhRSENEWTBpSXBtZ0FNa3NqT0V0NnVzUHQ2ektDYm0vbUE2Wm80Nkg3S2VRelcxalVIQmIycjVBbUdwR0xxYmJXZXFEWXYvTEV2dHJFZ3ZQZjRtQ1N0ckw0MHp0bHc1bGptbWVSNlo2TmVvbktqaS9UOVFlbXpMTEUrTEhEN1dhUThTZVF5RHk4elJRcGlJQWdvc1RJdFpSOWk0SW9SY1o4cTBGdDhVU0YvNWNjUmZBVEpaRWV4TzhNYzMwSHhOaTZ2eXdyS3ppRzkrVlVYcXVBUzRaVzBDRWpiT1RNaENTQg==
+       POST: {"dataSend":{"idvictimadirecta":"047A3EF9-34DF-40CC-89D1-19B0CFDC7871","idreporte":1,"iddependenciaorigen":18,"sexo":"HOMBRE"}}
+  [POST] https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStLRjdrbFpOOVkyd01VQXI0dUFqNnZ6amVNbndrSExBUG54azVvN21oZ0V3cXpUZmxCbGFuLzQvYUI1dGJzVStlM0R1VnBuaEp2UXBHUWhJWkM5eWw1eGFxSm9lbjAxQnl4MjM0QWFCVCs3N05DdG5zdHJQUnJmaEVZcjcyQlBJYlZkTUVIZHV4S3YyMHcvRHdYRkhaSzZ0clZ2SkZtenkwdWZ4T3JxK1IxcUJDZkNQK01lN2RPMHVKSFNpS0Nqc3psc09kRk55ZGx1bzl3M3F5ZHB6N0MwU01Lakh0QVR0VEN2SklVS1d6VHF5NitzME9EdUlBUQ==
+       POST: {"dataSend":{"idvictimadirecta":"047A3EF9-34DF-40CC-89D1-19B0CFDC7871","idreporte":1,"iddependenciaorigen":18,"sexo":"HOMBRE"}}

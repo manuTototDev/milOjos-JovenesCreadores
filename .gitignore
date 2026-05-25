@@ -1,0 +1,44 @@
+# ── Imágenes ─────────────────────────────────────────────
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+
+# ── Carpetas de capturas y boletines ─────────────────────
+capturas/
+fcaesDes/2022/
+fcaesDes/2024/
+fcaesDes/2025/
+fcaesDes/2026/
+fcaesDes/fcaesDes/
+
+# ── Archivos de datos pesados ─────────────────────────────
+*.pkl
+*.npy
+*.whl
+
+# ── Python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# ── Modelos de IA ─────────────────────────────────────────
+python/models/
+
+# ── Sistema / Editor ──────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

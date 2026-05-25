@@ -1,0 +1,148 @@
+[
+  {
+    "i": 0,
+    "cardClass": "card ctn-card-consulta",
+    "cardText": "LUIS MARTIN HERENDIRA NAVA\n\nEdad actual: 56\nFecha de hechos: 21/10/2015\nSexo: HOMBRE\nEstado: COLIMA\n\nMÁS INFORMACIÓN",
+    "btns": [
+      {
+        "tag": "A",
+        "text": "",
+        "repr": "\"\"",
+        "cls": "",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "i": 1,
+    "cardClass": "card-body",
+    "cardText": "LUIS MARTIN HERENDIRA NAVA\n\nEdad actual: 56\nFecha de hechos: 21/10/2015\nSexo: HOMBRE\nEstado: COLIMA",
+    "btns": []
+  },
+  {
+    "i": 2,
+    "cardClass": "ctn-titulos-card-consulta",
+    "cardText": "LUIS MARTIN HERENDIRA NAVA\n",
+    "btns": []
+  },
+  {
+    "i": 3,
+    "cardClass": "texto-card-consulta",
+    "cardText": "LUIS MARTIN HERENDIRA NAVA",
+    "btns": []
+  },
+  {
+    "i": 4,
+    "cardClass": "texto-complemetario-card",
+    "cardText": "Edad actual: 56\nFecha de hechos: 21/10/2015\nSexo: HOMBRE\nEstado: COLIMA",
+    "btns": []
+  },
+  {
+    "i": 5,
+    "cardClass": "card-footer ctn-sociales",
+    "cardText": "MÁS INFORMACIÓN",
+    "btns": [
+      {
+        "tag": "A",
+        "text": "",
+        "repr": "\"\"",
+        "cls": "",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "i": 6,
+    "cardClass": "btn-header-card-consulta flex-end",
+    "cardText": "",
+    "btns": [
+      {
+        "tag": "A",
+        "text": "",
+        "repr": "\"\"",
+        "cls": "",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "i": 7,
+    "cardClass": "card ctn-card-consulta",
+    "cardText": "ANIBAL ALAYN AMPARO MORFIN\n\nEdad actual: 22\nFecha de hechos: 24/03/2026\nSexo: HOMBRE\nEstado: NAYARIT\n\nMÁS INFORMACIÓN",
+    "btns": [
+      {
+        "tag": "A",
+        "text": "",
+        "repr": "\"\"",
+        "cls": "",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "i": 8,
+    "cardClass": "card-body",
+    "cardText": "ANIBAL ALAYN AMPARO MORFIN\n\nEdad actual: 22\nFecha de hechos: 24/03/2026\nSexo: HOMBRE\nEstado: NAYARIT",
+    "btns": []
+  },
+  {
+    "i": 9,
+    "cardClass": "ctn-titulos-card-consulta",
+    "cardText": "ANIBAL ALAYN AMPARO MORFIN\n",
+    "btns": []
+  },
+  {
+    "i": 10,
+    "cardClass": "texto-card-consulta",
+    "cardText": "ANIBAL ALAYN AMPARO MORFIN",
+    "btns": []
+  },
+  {
+    "i": 11,
+    "cardClass": "texto-complemetario-card",
+    "cardText": "Edad actual: 22\nFecha de hechos: 24/03/2026\nSexo: HOMBRE\nEstado: NAYARIT",
+    "btns": []
+  },
+  {
+    "i": 12,
+    "cardClass": "card-footer ctn-sociales",
+    "cardText": "MÁS INFORMACIÓN",
+    "btns": [
+      {
+        "tag": "A",
+        "text": "",
+        "repr": "\"\"",
+        "cls": "",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "i": 13,
+    "cardClass": "btn-header-card-consulta flex-end",
+    "cardText": "",
+    "btns": [
+      {
+        "tag": "A",
+        "text": "",
+        "repr": "\"\"",
+        "cls": "",
+        "href": ""
+      }
+    ]
+  },
+  {
+    "i": 14,
+    "cardClass": "card ctn-card-consulta",
+    "cardText": "CONFIDENCIAL\n\nINFORMACIÓN RESERVADA POR: FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO\n\nMÁS INFORMACIÓN",
+    "btns": [
+      {
+        "tag": "A",
+        "text": "",
+        "repr": "\"\"",
+        "cls": "",
+        "href": ""
+      }
+    ]
+  }
+]

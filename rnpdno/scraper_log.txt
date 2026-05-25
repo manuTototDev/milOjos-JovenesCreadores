@@ -1,0 +1,20 @@
+Salida  = C:\Users\manu\Documents\Jovenes creadores\Dev\produccion\rnpdno_data
+Límite  = 10
+
+Cargando portal...
+  [IMG] 0546F598-3B27-4F54-A HOMBRE
+  [IMG] 41B25212-9E04-4680-8 HOMBRE
+
+Leyendo cards del DOM...
+
+Cards públicas: 5
+Imágenes API:   2
+  [01] JOSE LUIS BLANCAS GARCIA | CIUDAD DE MEXICO | IMG 127KB | sexo_api=HOMBRE dom=HOMBRE
+  [02] HILARIO ALDAHIR ORTIZ RAMIREZ | HIDALGO | IMG 246KB | sexo_api=HOMBRE dom=HOMBRE
+  [03] LUIS MARTIN HERENDIRA NAVA | COLIMA | SIN FOTO
+  [04] ANIBAL ALAYN AMPARO MORFIN | NAYARIT | SIN FOTO
+  [05] FRANCISCO HUERTA AHUMADA | NAYARIT | SIN FOTO
+
+============================================================
+Guardadas: 5 | Con foto: 2
+Carpeta:   C:\Users\manu\Documents\Jovenes creadores\Dev\produccion\rnpdno_data

@@ -1,0 +1,43 @@
+﻿python.exe : Traceback (most 
+recent call last):
+En línea: 1 Carácter: 102
++ ... ce 2>$null; & "c:\Users
+\manu\Documents\Jovenes 
+creadores\Dev\producci ...
++                 ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: (Traceba  
+  ck (most recent call las   
+ t)::String) [], RemoteEx    
+ception
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+  File "C:\Users\manu\Documen
+ts\Jovenes creadores\Dev\prod
+uccion\rnpdno\rnpdno_scraper.
+py", line 294, in <module>
+    main()
+  File "C:\Users\manu\Documen
+ts\Jovenes creadores\Dev\prod
+uccion\rnpdno\rnpdno_scraper.
+py", line 70, in main
+    print(f'Salida  \u2192 
+{os.path.abspath(OUT_DIR)}')
+  File "C:\Users\manu\AppData
+\Local\Programs\Python\Python
+312\Lib\encodings\cp1252.py",
+ line 19, in encode
+    return codecs.charmap_enc
+ode(input,self.errors,encodin
+g_table)[0]
+           ^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^
+UnicodeEncodeError: 
+'charmap' codec can't encode 
+character '\u2192' in 
+position 8: character maps 
+to <undefined>

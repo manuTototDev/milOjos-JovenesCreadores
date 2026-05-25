@@ -1,0 +1,345 @@
+[
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/t/VTJGc2RHVmtYMThWeXZ0TDdxaGdRUkE5bFZtSWRiSlM5OWNzQ0VBb3l1c0xhQjRka2N4dEFvdGhrRmNQVlNhOTFDYzc1a0t6TUlVZm0xYUpLYjhYWkRDaFNwcC9EdkVBMEJnSnpJUHMyQjg9",
+    "ds_keys": [],
+    "idvictima": "",
+    "idreporte": "",
+    "iddep": "",
+    "sexo": "",
+    "data_type": "str",
+    "data_prev": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkNvbnN1bHRhIFB1YmxpY2EiLCJpYXQiOjE3NzQ0ODEwODEsImV4cCI6MTc3NDQ4NDY4MX0.75RDFZRj2zqYVufCXMcIrBQoy2rXuoUnRaqaqXDTrY0",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTlHWXZ4WnhiUGRGZjJKU1d2eGZGUzAvVGY5K1N3MW9RME0ybThLMlFDd0Z1QmYyS2lOeXIrU2pnSzY0MjVMajN0QlVvZm1CVjVhcWtWNGZTZHpUck14L2trUXpuR0xpY05EY05iQ2VrTnBkeGUvYUpaemVybWVrK0ZOcDh4dzJFK0tOTkhxdUtIV3lPK0VRZnNyaW1GUWpjZk1laWwxbkdBPQ==",
+    "ds_keys": [],
+    "idvictima": "",
+    "idreporte": "",
+    "iddep": "",
+    "sexo": "",
+    "data_type": "dict",
+    "data_prev": "{'data': [{'iddependenciaorigen': 'CONFIDENCIAL', 'dependenciaOrigen': 'FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO', 'IDvictimadirecta': 'CONFIDENCIAL', 'IDvinculacion': 'CONFIDENCIAL', 'IDreporte': 'CONFIDENCIAL', 'nombre': 'CONFIDENCIAL', 'primerapellido': 'CONFIDENCIAL', 'segundoapellido",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMSs4M1NVSVBaSjVJODVtbGdmQTQ3MCtldk9WUFNWS3VtQU56M2lKZ0tHQkxESnE5NXltOFNVTGhrZjkwSEJ2MkpIRVFEVmE4SEl5TTIwejZVTzlNdUJ3OGEzdmtOamVlZVMxSlIvaTVPc3A1dVVUZGJzd2NIY2JnRGdUUUF5dlNJWUVCbmxWNmtHZXV4Mjl3d1h4SVhad1VmYnYweGRJR2FNPQ==",
+    "ds_keys": [],
+    "idvictima": "",
+    "idreporte": "",
+    "iddep": "",
+    "sexo": "",
+    "data_type": "int",
+    "data_prev": "132493",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTh2ZHlxZ3VQbEt0Zjl2bEdDYk9VOFRtWlJPOEVmclJQVmFKdFQ4K2hiVDJJdENoenRYN0VGTVFDa09FZktSUnpuUWtXRlovaVhVLzVESmRoWWc4SnU3WUNhZGlXS3dQTUozYmF6M1NyNjZyREhFVXRqbkpjU2JaT29JaU9CUWVmY1ZZcnNTWkEzczJxSmtVYTJrNUQwVzZCdXcxMUdkRHN4anY4cEdVREhDOFpEOUFnaWZsVXZqK29NYnQvR0puNEd4MTVJTDBDTG1aRlZjOERkYWtFZlRlTmFWV2FybzdFVzNsNkV2N1hKaVF3eGxKTldORzdURw==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "365830C8-E4A7-4CAF-9315-6C83A9209AC9",
+    "idreporte": 1,
+    "iddep": 24,
+    "sexo": "HOMBRE",
+    "data_type": "NoneType",
+    "data_prev": "None",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9NQjM2Z1BZZy9oaDU1Ui9FcWR0WndTME9nTHNmV0QwWFRxdVRYVjVXbGkyRXFGRm4zUURRMEVFMk9qU0dJc2NzTzN4QjUzRU9tclZCZmNPamJmUk9jR29TYTQyeEdPakx1L2M4S3JuOWR4dTI2bGRyWWJ2c1VaeG9TSlR3TXlYTHhYdVRXWkxnNkZCWXU0NHRzT1FjdS96MjFacmtKdkRJVFBqRjhMVHYwMVFWUmZ0eStQTW1kUnUvbWhhckRsSlN3eG44c2Z5NUozVGcvbTZFMno1amp1Tzdxem5VVGZEQUVTb1IzWEkrb0tiRnVKZWc4dmpqZw==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "EC3B1583-2634-4659-9B0E-71C91B1E8CFD",
+    "idreporte": 1,
+    "iddep": 67,
+    "sexo": "HOMBRE",
+    "data_type": "IMAGE",
+    "data_prev": "",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTl0TjBncXFQcGlHMUVGamFKQXVFM1FJeWthQWF6V0Fmc1VBWDhZZFhpTG9PellkMElGSzNVUktzZzFEcUQrbnliaElNYzU4MkFwbkRZb0hmMWdzOW1xUXpmbXhJMnduakNsbUhzMkpoMkxOTGZmb0hPaE85QjQ4TXRSQWc0ajFwekk2YnJySTduNzFhbitXUGV2R2NTME1DL3EzWkZ0NUlhMGhSY2NwL3p4S0JZYkQ2T2lPeEU3WkZwU05vMGN0L2wyOFhtS25kV2E0MFRERUJRbHY4bUFjZUlYczV4M3ZZNlp3RWw0RTVBd3lHLzdNSE1KR0ZPdw==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "0546F598-3B27-4F54-A040-D02A5589BD5E",
+    "idreporte": 1,
+    "iddep": 9,
+    "sexo": "HOMBRE",
+    "data_type": "IMAGE",
+    "data_prev": "",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9BRmE0OTRCUy95UE4zVXR2RUFOWC9BVlVXd0l1QzZDM0dCVS83a0VraTJGWE9yTFo5WE12T2FiMWc5YWVzMWp3NWNiczJiZXJ0MFVseWhDWGtDQXFDQU92Z0pxYk4zY2wrMUpOVUlBdzNRMzF5dlNFT090ZXlpU0lISUpVaXUvTjNPSWZIdzJwclg4Y0oxeVp2aUtLM2pSWW9acmhNVVpQcFhub1dGdGJyaThza3VXS2cxdDd6Y0djdzg1eVhrNHd0MVRYdXIwUFArZ3hWSjNVL3l4MkNac0NaUExWNHdsNktLV1ppcXFxeEFCUW50Wnh5S29aeA==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "41B25212-9E04-4680-8509-3A723CFA5F2F",
+    "idreporte": 1,
+    "iddep": 13,
+    "sexo": "HOMBRE",
+    "data_type": "IMAGE",
+    "data_prev": "",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStVSU1QRnZvY3RKV2hVR09ZZldwZmlueWNVOTFSd0g5QTRXTHk4WDNIUXh1VnVuTjFTbGJYVDE0WkNhSE9FZFgybk5OMUM4OGJwY0tBN1ZnTDdtM0VwSC9WaVVOREJybWs5SXBGZ0dvZFBQeDV4WnhiWTNqUjFxTlFxSlRMOU9pSEI1bmx3SFNnZ09qV2gzaW5pSjJ5WU9yaXp6eXMzeklzVnRmM29odnozSVU4eExLUVBublNqd0pMU1VtYXZERUYwcWNpaGl5cEEvbjlWQjc1dEN2UGlobVZRRUF2c01lUVhMNmpsVE1uOFpSc0p4cHZueTR2NQ==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "5855429F-5C23-4834-91C4-9450BA3509DD",
+    "idreporte": 1,
+    "iddep": 48,
+    "sexo": "HOMBRE",
+    "data_type": "NoneType",
+    "data_prev": "None",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9mMEJvTUU5eUhUUHFjRkVwUHpqMngyVmxCSlF6TVBwQ0RtNHNqcmo2RHlNRk1iVzZwSzliM1p1SndBSlpqbExVQWNQdjJYUkE4ZGhKMUZSbVkwTDN1SDVpNW5zK3l5cGpIZlN3QStkWnQ2K3FhWFQxMXpocDRmRkVMSm9FZ0pmTExkMkxBM0RmZ3BCOVRlUzJHK2hyeEdVTmZLZm55VVFOd3V4ZjY3TVl6KzUyN3hYNDNsQ25mV3dwWTk5REpBaTlkeC9ZK0J4S2ZzNFRlNWZrVGthdE5GRlZDZlFXREJvK2ZvUzI4U1BLZVlLd3BGMk55amlJTw==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "5209356D-EFDC-4ED2-9190-9189930C48DC",
+    "idreporte": 1,
+    "iddep": 18,
+    "sexo": "HOMBRE",
+    "data_type": "NoneType",
+    "data_prev": "None",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStHUzRKSVUzTmp5WGFLZkFCbG5NRXlHRzNQVkFWU1FvcDd6MXdTdVhqWS9wVk5uNE8zZmV5NlFNYy9vVVNFRldmTXgrbkIwUlE4L24zV2VzWmV2UG9OaHdhdlJSZkVsN1Vsd1NoNzM3VGIrb2RONTkxUGVySWw0bFV2bm9BVzkyM0pJWDg4U3NNN0E0b01xaEYxQzk4cjN4SjI4NkZvaGJRPQ==",
+    "ds_keys": [],
+    "idvictima": "",
+    "idreporte": "",
+    "iddep": "",
+    "sexo": "",
+    "data_type": "dict",
+    "data_prev": "{'data': [{'iddependenciaorigen': 'CONFIDENCIAL', 'dependenciaOrigen': 'FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO', 'IDvictimadirecta': 'CONFIDENCIAL', 'IDvinculacion': 'CONFIDENCIAL', 'IDreporte': 'CONFIDENCIAL', 'nombre': 'CONFIDENCIAL', 'primerapellido': 'CONFIDENCIAL', 'segundoapellido",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9wdFBjUTVvS1dzS21XV0FQVHZvMTF3MmF3cHNrYkJFaXR5Q0xDK1lWQW5GeWhJTVhHZ0dIOTNGcGl3R3NGSVBMR0NHY2hDV1BTdmlQRjlwVFE1VE5iazNPWUdGcmtFb0FGOGFGUE5VQ0YzaHFuT2ZRaXA2Q3NYcDdqR3hJd3I4aHdBUFlYWHRSVXBDVHorakpOc2VBOTJRb2p1clUvdS9JPQ==",
+    "ds_keys": [],
+    "idvictima": "",
+    "idreporte": "",
+    "iddep": "",
+    "sexo": "",
+    "data_type": "int",
+    "data_prev": "132493",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9iNmhPVGJoT2o1eTVxMk9PU3lvSHdwSTZveGZRdWJlVEhnM1hrd3VpZUJVWmUwcEhiUmRPUk8xWGZpQ3Z1QklRQWs2K281NmdIWWZLbE9IenJQOXBsK1cvTytkTnduQ1BtWFhMYUNFeFJRK0J0VldoRGxTRjlVRmp1bU44TTAzN3dkdEVncE9JaGhjWVA4ckp4UnpoU3lxZnc3VFR3YTVOa3NLMTd4K2RwaHA4WExiUTJwclBZdnUwc0M0RVAyQXkrT3RXaXA0cjZUQTlPK04xbjB2VGx1d2J3MG8xdFVjNmFUa1dMeDl5Nnk0cTFkL1p6cGVpeg==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "365830C8-E4A7-4CAF-9315-6C83A9209AC9",
+    "idreporte": 1,
+    "iddep": 24,
+    "sexo": "HOMBRE",
+    "data_type": "NoneType",
+    "data_prev": "None",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMSsyb25ONmJ5bjdaQ3BEMStYUkdVamVjZWgvZUdmbWZ3M3NIdGcxWE13ODhTbU85WHVJM1VDREZPV3pvK2FPY0tjcHJ5TXhoZWUzV0pqZVR3RDNwV2FPMjJNREFpaWxJdE52NXpVZWtnaEIvWlJNa3RjRTg2dFZlYmdpOU9vSjV1WmJmdCt3VzYzeUthMnR0b2RCa3JmekdVeGpHOThralp6MUhCMzR0d3o4cndwYlpzdjRIV3dKaXcvMVVHcXVDODNwYTlXQXhLODZzdDBheGtmakNVVHhWRE8vbDZGRFIyUGg0L3gxb0l3cWtjQ0hQOEUxeDFoUg==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "365830C8-E4A7-4CAF-9315-6C83A9209AC9",
+    "idreporte": 1,
+    "iddep": 24,
+    "sexo": "HOMBRE",
+    "data_type": "NoneType",
+    "data_prev": "None",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMThoNVJxSzVJZEdCdW1wMGRoZWFYUkcyWEtyUVY3RHJVandqeHUyNzA5YWRKYlBJZXYwNlpNdlNrd0lHQklPOGM5NkhQSzZWYWlEaGptZWkxZksvZ0ZldnE5enFtcEptMC9aQ25DQU1SeWd0NlZMWWhtUHpURnhhdjJSUCtFQlkrZjJrRzZhV3U5MlNNMDBDYWR5Qzd5SzhxWGNCTlAwcmxJY2RYVk1tUnFKUnVQRTJ1R3k1V3lOWFJadk9jcVptUmtCeVVsblI5NjF1czVKSHJOckNFNlord3VQSHNPTTFPV1N0MkI0YjhHcEhkNm9FZGRFZmVaLw==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "EC3B1583-2634-4659-9B0E-71C91B1E8CFD",
+    "idreporte": 1,
+    "iddep": 67,
+    "sexo": "HOMBRE",
+    "data_type": "IMAGE",
+    "data_prev": "",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMThzenpiWWwzUThISkRaUkxSRUxHcDZVOFJLVWx2czl3Snl6cW9xM05aSHpqblg5MWdvaHNjUUg5VG9UYmlMR21lcjRNeWs0MXlUaHBlQzRoaHk2R3F0clpUUUt4VUNnNS9WYXV0S3hJQ1R0THR5YjhmV1RtdUp5T3ZwOUphb0VGSFErOGlUUXVzS0RpdlJ2SHJCdkYvQVRrMkRuaDdSVm1nNmdvcWFrU1MzeFVvRS9BSEE0cWtrUDRScEpPTHFXeFBndVlhWkhIN2lGUGFjSjlmUUJka0JzS1QzWFdOMDVKZFNBaHZSOWY5MVF5K2Rndis4dTJzSQ==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "EC3B1583-2634-4659-9B0E-71C91B1E8CFD",
+    "idreporte": 1,
+    "iddep": 67,
+    "sexo": "HOMBRE",
+    "data_type": "IMAGE",
+    "data_prev": "",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMS9QZFhTT2tlSUdINWZpRVVuZ2w2MnNnSTQzYlpNMlRBaWFxME41cHR1QVV1T2RCZ1FGUk1vRFk1cW54NFV3c0JTN1h0c21KNDBHYmplaXRueFRhcENSSENhNWpOOGM2N1dROXFxbDNIT294eWtZOVFyeW41OGJibE92V2RlYUJMNjVwTDdPSU1PbHl1OWswdHRKZ1hJWEt6Q3ZIbDRmZFVyYStibzJudnhEZWtxY2xLMjlyN0QxSXNyc2VkUmdkdSt4REtKUWNEOUZyUmVJZFZFWkV3ZVZXYjlaTUlxcTloZ0VBckJiYThVT05Qb09jdmIrZjZOcw==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "0546F598-3B27-4F54-A040-D02A5589BD5E",
+    "idreporte": 1,
+    "iddep": 9,
+    "sexo": "HOMBRE",
+    "data_type": "IMAGE",
+    "data_prev": "",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTk1Q2ttWXAvdnNTVVRhRC9RTmZGMnd0NVVOZDBURmVSNTEyamJpWFVDeE1aRlV0YWxIOHpoVmIzUHhvL1FwYXpYZUNQMFBjdlZkUmtyRjlXcTQ0WHlOQXNEWWNkeC9wYkYxRFV1QUMzN1pxVFhzSnA1cmMySytRbGl3Y0QxaWNJaDlXallPVVBTd2tVd3hhcm1Va1ZFZEwrd0gzZW94emhTZDBxTG9EWFVaRnluR2FRRW9EdGJlZ1A2UDgvU3MvRFVTRDVsWU9wc3NIaFR6U05ibXFzSTFiZXZkWnBQNEwvOEdkdGk0T1g4Q2hNZm1kemFTdTFvVw==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "0546F598-3B27-4F54-A040-D02A5589BD5E",
+    "idreporte": 1,
+    "iddep": 9,
+    "sexo": "HOMBRE",
+    "data_type": "IMAGE",
+    "data_prev": "",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStnRW5OWU1QdmlDQ1dYMVNpSDhzTnJ0bEZPOG9nWnJ0azhEMTBnT1o0Z3dCTHBoQ29zOVJncGlkSHlpenllNVRXL1YxMERFM3NTam1iQVkvbUkvSWdDU05GYWJMSUZ5WENBekpBV2lhQ05GKzNzZWhlWkhHbi9hQ0MydE9ncDhLWVMrTzNuR1dXZXlrUHVIYllEc2VycmQwRTFXOUp5Uk1zMVk1MW5vY3NsOE5GU2F5a3huWHVVK0ZQdnNmZnNydnZaU0ZGa0MycHYyODE4QWtlZHN3NWR3dElTVUd5ZitYYTZkNHdhejVrVGYrbHVpQ2Qxbzh2Rw==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "41B25212-9E04-4680-8509-3A723CFA5F2F",
+    "idreporte": 1,
+    "iddep": 13,
+    "sexo": "HOMBRE",
+    "data_type": "IMAGE",
+    "data_prev": "",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTgxMzNaalpVQnFzMHQrTG9NRkhqdEMwcGZPeDMwMHJqK1BFdGhSaWNwQ0JNQ3UxN0dCV0FpKzVyb09oWDFKMHlsQ09QVUZDNWowQ3ZhZTNIVHBORjFPZnpMVktiS0dEVStTMXA5NEl3cnZYY1lwcWZZeHFoTkplNWlKVWc5MHZxNzJ2UUtnTnNqT0I2em1UdXJFbkdyRDNWNzVXRnVXS3A2Sno0dk9DM2EyQXNnWWtvZXhheVBRVXpSVnp5eGlGb25Bc3JNU0hFdTJrS0ptdU52NS9Zb0VLcGtlYjQ0aC9QSXhKYloyaGxabXJucFowQWJSbnhXYQ==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "41B25212-9E04-4680-8509-3A723CFA5F2F",
+    "idreporte": 1,
+    "iddep": 13,
+    "sexo": "HOMBRE",
+    "data_type": "IMAGE",
+    "data_prev": "",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTlBd1FLSUZycXhsdVJXZ3VOUTVRVzNrT1VLRlFjb0hSSVJwWmd2MXY0OUEzM2dSdG9vei9QYlNuVHdsMmwrRFI5R0RJRVJKbHdYV0RZMDBKOFRqQ2JjS2xmVGMxSjRNUmpRSk9EOWtsb0M1a3pNVEowU2NMa1U4WXpWSitiQzduM2Uxa1NldjBGUnpJQ2FNSnB1SFVUbm5SaGYvYW1SNFVRWnNwQTIybWthbDd3UTNvY3BSYW1lK1VyNzZPeGJxUGlWK0tHdysybWxmQ1pUUWZXNlc3d3F5SUw2cVRMZ1pwSkxzMkNMUXovbjRMay9DNTRaZ2tORQ==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "5855429F-5C23-4834-91C4-9450BA3509DD",
+    "idreporte": 1,
+    "iddep": 48,
+    "sexo": "HOMBRE",
+    "data_type": "NoneType",
+    "data_prev": "None",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMStxbDRkWkx1aVRxUysvQjR0bThBK0tuUHZIa1V6a3k1OUVPZmVCZFIyYzNrcVlKbzJYdUErd3RLQmJBVE9CMC9vc09hcExPWXpiZ3B3a1N4RjdBZU5BM211c3VzbzZhT21oQkZ5b2hlNk9uTG9OTUdiWkRrV21RMU1iQlgzQWdGZXRjdkswQTdtdEZ1WmorR05kUkpYNXRpTTR3UGVINnJTbmNvdFlLSjcxKzlZbkdzV0tHTjdRbElsODFtWVFFNFdKRGk5L2hpd0NLT01RWEY0K2UwUU1aVzBBeFVZUGpjcjNDV1owN1BUTmVRc2h5ZHZJWkpCSg==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "5855429F-5C23-4834-91C4-9450BA3509DD",
+    "idreporte": 1,
+    "iddep": 48,
+    "sexo": "HOMBRE",
+    "data_type": "NoneType",
+    "data_prev": "None",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMTk0RlZMZ1pyNm9qUVB3aWsvN0FRWkdVYlo1TW9OMUIxZlExZExMVDdLejlVSTV0Z0xMZFlLSTJ0bHFNZmtUcGIxeHlpdmdzZ0xxdStxOG9PZkdYNWVBSldkU1JsNW1CdWxVdFloK2FyQ2hYOXp5dEpVSSs2WHFyK2JmdnpWUVU0alFuRlN0SFBZUWwyVzVFRXVOalhUYm1qeHQzRUI3Q3pUbk9aUWZQVjkya3BjbzJ3TEt3WFJHZUVhY09oZ2psMWNiT3hJbmVUb3d6VU9nNGVyaDl4QlRQRzJsbFBCanlRaExDc0ZXRlkvTEVqbktwcmREdDFDQg==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "5209356D-EFDC-4ED2-9190-9189930C48DC",
+    "idreporte": 1,
+    "iddep": 18,
+    "sexo": "HOMBRE",
+    "data_type": "NoneType",
+    "data_prev": "None",
+    "result_ok": true
+  },
+  {
+    "url": "https://apiconsultapublicarnpdno.segob.gob.mx/api/p/VTJGc2RHVmtYMSt3RG5iUUtjZmhXcWVJRjhneitJbWdyOThYWnNuRVE4eHl6SG5Ecml1eElscENtWkZBLzU2T1lMdmNLSXM0eTBBeVZ0aEoveDQyd0tiR3A0aHpXM3Yrc3ZnL2Q4YnpGUUxWdDhKS2FhSFJxNGwvUnJQWm9vWm1ZWXNsY2g0RkF1MnQ0a0wzYzYyUFRjeUx3S2s1UzM3Nm5FSElpYVFMTWh3cFRWMWprck1lSkFZbThXWGtnY1VaSitpdkZTdUptNVlhbE1nd0ZkQWQ2RjVPMlc0TlFZOXVOQS84RllOdzU2eFRyaTBxT1Q3LzlsLytPcmJHR0dkWQ==",
+    "ds_keys": [
+      "idvictimadirecta",
+      "idreporte",
+      "iddependenciaorigen",
+      "sexo"
+    ],
+    "idvictima": "5209356D-EFDC-4ED2-9190-9189930C48DC",
+    "idreporte": 1,
+    "iddep": 18,
+    "sexo": "HOMBRE",
+    "data_type": "NoneType",
+    "data_prev": "None",
+    "result_ok": true
+  }
+]
