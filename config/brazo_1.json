@@ -1,0 +1,52 @@
+{
+  "brazo": 1,
+  "placa_index": 0,
+  "placa_addr": "0x40",
+  "canal_base": 4,
+  "pulso_min": 150,
+  "pulso_max": 600,
+  "calibrado": "2026-07-28T19:34:02",
+  "servos": [
+    {
+      "slot": 0,
+      "canal": 4,
+      "articulacion": "base",
+      "min": 48,
+      "max": 117,
+      "home": 89,
+      "invertido": false,
+      "verificado": true
+    },
+    {
+      "slot": 1,
+      "canal": 5,
+      "articulacion": "hombro",
+      "min": 30,
+      "max": 150,
+      "home": 45,
+      "invertido": false,
+      "verificado": true
+    },
+    {
+      "slot": 2,
+      "canal": 6,
+      "articulacion": "codo",
+      "min": 31,
+      "max": 120,
+      "home": 90,
+      "invertido": false,
+      "verificado": true
+    },
+    {
+      "slot": 3,
+      "canal": 7,
+      "articulacion": "muneca",
+      "min": 20,
+      "max": 159,
+      "home": 142,
+      "invertido": true,
+      "verificado": true
+    }
+  ],
+  "_nota": "PLANTILLA. Corre python/calibrar_brazos.py para llenar min/max/home reales."
+}

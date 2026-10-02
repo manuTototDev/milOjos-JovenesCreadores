@@ -1,0 +1,33 @@
+{
+  "generado": "2026-07-30T11:34:54",
+  "aviso": "El indice de OpenCV NO es estable entre arranques. Regenera este archivo al reconectar camaras o reiniciar.",
+  "resolucion_prueba": [
+    320,
+    240
+  ],
+  "camaras": [
+    {
+      "brazo": 0,
+      "indice_cv2": 3,
+      "desplazamiento_px": 4.43,
+      "ratio": 6.08,
+      "confianza": "alta"
+    },
+    {
+      "brazo": 1,
+      "indice_cv2": 0,
+      "desplazamiento_px": 22.39,
+      "ratio": 2.8,
+      "confianza": "alta"
+    }
+  ],
+  "camaras_sin_brazo": [
+    1,
+    2,
+    4
+  ],
+  "brazos_sin_camara": [
+    2,
+    3
+  ]
+}
